@@ -1,4 +1,4 @@
-# case_study - Web Workers
+# Case Study - Web Workers
 Small test to understand web workers.
 
 # Overview
